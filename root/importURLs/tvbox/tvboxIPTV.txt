@@ -1,5 +1,6 @@
 { "urls": [
 { "url": "https://live.zhoujie218.top/tv/iptv4.m3u", "name": "zhoujie218" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt", "name": "vbskycn" },
 { "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/home.m3u8", "name": "joevess_home" },
 { "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8", "name": "joevess_iptv" },
 { "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/result.txt", "name": "Guovin" },
