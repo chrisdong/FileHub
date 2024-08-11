@@ -1,13 +1,13 @@
 { "urls": [
-{ "url": "https://live.zhoujie218.top/tv/iptv4.m3u", "name": "zhoujie218" },
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt", "name": "vbskycn" },
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/home.m3u8", "name": "joevess_home" },
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8", "name": "joevess_iptv" },
-{ "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/result.txt", "name": "Guovin" },
-{ "url": "https://ghproxy.net/https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2024.m3u", "name": "ddgksf2013" },
-{ "url": "https://ghproxy.net/https://github.com/qingwen07/awesome-iptv/raw/main/china_all.m3u", "name": "qingwen07" },
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/home_sources.m3u8", "name": "joevess_home_sources" },
-{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8", "name": "joevess_iptv_sources" }
+{ "url": "https://live.zhoujie218.top/tv/iptv4.m3u", "name": "TV_zhoujie218" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt", "name": "TV_vbskycn" },
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/home.m3u8", "name": "TV_joevess_home" },
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8", "name": "TV_joevess_iptv" },
+{ "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/result.txt", "name": "TV_Guovin" },
+{ "url": "https://ghproxy.net/https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2024.m3u", "name": "TV_ddgksf2013" },
+{ "url": "https://ghproxy.net/https://github.com/qingwen07/awesome-iptv/raw/main/china_all.m3u", "name": "TV_qingwen07" },
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/home_sources.m3u8", "name": "TV_joevess_home_sources" },
+{ "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8", "name": "TV_joevess_iptv_sources" }
 ]}
 
 
