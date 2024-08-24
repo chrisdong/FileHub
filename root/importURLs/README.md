@@ -2,7 +2,7 @@
 
 短网址
 https://tinyurl.com/tvbox88  
-https://tinyurl.com/tvbox89
+https://tinyurl.com/tvbox89  
 https://tinyurl.com/lx6yin  
 https://tinyurl.com/lxfl78  
 
