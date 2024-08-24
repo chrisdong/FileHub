@@ -19,16 +19,16 @@ https://ghproxy.net/https://raw.githubusercontent.com/chrisdong/FileHub/main/roo
 https://ghproxy.net/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/freelisten-music-source.js
 
 作者  
-https://github.tax/hwxlikemi/lxs/tree/main  
-https://gh.sixyin.com/https://raw.githubusercontent.com/hwxlikemi/lxs/main/hwxlikemi.js
-https://gh.sixyin.com/https://raw.githubusercontent.com/hwxlikemi/lxs/main/huibqapi.js
-https://gh.sixyin.com/https://raw.githubusercontent.com/hwxlikemi/lxs/main/fl.js
-https://gh.sixyin.com/https://raw.githubusercontent.com/hwxlikemi/lxs/main/flower.js
-https://gh.sixyin.com/https://raw.githubusercontent.com/hwxlikemi/lxs/main/grass.js
-https://gh.sixyin.com/https://raw.githubusercontent.com/hwxlikemi/lxs/main/ikun.js
-https://gh.sixyin.com/https://raw.githubusercontent.com/hwxlikemi/lxs/main/sixyin120.js
-https://gh.sixyin.com/https://raw.githubusercontent.com/hwxlikemi/lxs/main/sixyinapi.js
-https://gh.sixyin.com/https://raw.githubusercontent.com/hwxlikemi/lxs/main/wuming.js
+https://github.tax/hwxlikemi/lxs  
+https://ghproxy.net/https://raw.githubusercontent.com/hwxlikemi/lxs/main/hwxlikemi.js
+https://ghproxy.net/https://raw.githubusercontent.com/hwxlikemi/lxs/main/huibqapi.js
+https://ghproxy.net/https://raw.githubusercontent.com/hwxlikemi/lxs/main/fl.js
+https://ghproxy.net/https://raw.githubusercontent.com/hwxlikemi/lxs/main/flower.js
+https://ghproxy.net/https://raw.githubusercontent.com/hwxlikemi/lxs/main/grass.js
+https://ghproxy.net/https://raw.githubusercontent.com/hwxlikemi/lxs/main/ikun.js
+https://ghproxy.net/https://raw.githubusercontent.com/hwxlikemi/lxs/main/sixyin120.js
+https://ghproxy.net/https://raw.githubusercontent.com/hwxlikemi/lxs/main/sixyinapi.js
+https://ghproxy.net/https://raw.githubusercontent.com/hwxlikemi/lxs/main/wuming.js
 
 
 
