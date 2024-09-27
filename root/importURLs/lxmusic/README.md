@@ -1,7 +1,7 @@
 lx-music 在线导入源  
 
 短网址   
-[https://tinyurl.com/lx6yin ](https://fo9j.short.gy/lx6)  
+https://fo9j.short.gy/lx6  
 https://tinyurl.com/lxfl78  
 
 原网址（短网址对应的）  
