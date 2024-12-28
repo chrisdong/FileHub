@@ -26,6 +26,7 @@ https://raw.github.com/chrisdong/FileHub/main/root/importURLs/lxmusic/sixyin-mus
 
 作者  
 https://github.tax/Huibq/keep-alive  
+https://render.lxmusic.us.kg/  
 https://github.tax/hwxlikemi/lxs  
 https://ghproxy.net/https://raw.githubusercontent.com/hwxlikemi/lxs/main/hwxlikemi.js
 https://ghproxy.net/https://raw.githubusercontent.com/hwxlikemi/lxs/main/huibqapi.js
