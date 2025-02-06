@@ -27,7 +27,7 @@ https://github.com/hwxlikemi/lxs
 hwxlikemi音源 https://raw.githubusercontent.com/hwxlikemi/lxs/main/hwxlikemi.js   
 野花 https://raw.githubusercontent.com/hwxlikemi/lxs/main/flower.js  
 野草 https://raw.githubusercontent.com/hwxlikemi/lxs/main/grass.js  
-freelisten源 https://raw.githubusercontent.com/hwxlikemi/lxs/main/fl.js 
+freelisten源 https://raw.githubusercontent.com/hwxlikemi/lxs/main/fl.js  
 Huibq源 https://raw.githubusercontent.com/hwxlikemi/lxs/main/huibqapi.js  
 ikun源 https://raw.githubusercontent.com/hwxlikemi/lxs/main/ikun.js  
 六音1.2.0源 https://raw.githubusercontent.com/hwxlikemi/lxs/main/sixyin120.js  
