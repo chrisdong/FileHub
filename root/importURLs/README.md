@@ -7,7 +7,8 @@ https://tinyurl.com/lx6yin
 https://tinyurl.com/lxfl78  
 
 加速网址  
-https://github.moeyy.xyz/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvboxURLs.txt 
+https://github.moeyy.xyz/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvboxURLs.txt  
+https://github.moeyy.xyz/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvboxIPTV.txt  
 
 原网址（短网址对应的）  
 https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvboxURLs.txt  
