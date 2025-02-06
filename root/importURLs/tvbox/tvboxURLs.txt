@@ -1,5 +1,5 @@
 { "urls": [
-{ "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json", "name": "🕵🏻‍♂️ wwb521" },
+{ "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json", "name": "📺 wwb521" },
 { "url": "http://www.饭太硬.com/tv", "name": "🍛饭太硬" },
 { "url": "http://肥猫.com", "name": "🐼肥猫com" },
 { "url": "http://tvbox.王二小放牛娃.top/", "name": "👦🏽放牛娃" },
