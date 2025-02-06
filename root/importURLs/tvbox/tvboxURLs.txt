@@ -1,9 +1,9 @@
 { "urls": [
-{ "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json", "name": "📺 wwb521" },
 { "url": "http://www.饭太硬.com/tv", "name": "🍛饭太硬" },
 { "url": "http://肥猫.com", "name": "🐼肥猫com" },
 { "url": "http://tvbox.王二小放牛娃.top/", "name": "👦🏽放牛娃" },
 { "url": "https://0t欧歌t0.v.nxog.top/apitv.php?id=7", "name": "♫ 欧歌" },
+{ "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json", "name": "📺 wwb521" },
 { "url": "https://d.kstore.dev/download/7213/吃猫的鱼", "name": "🐟 吃猫的鱼" },
 { "url": "https://mpanso.me/DEMO.json", "name": "🍚小米" },
 { "url": "http://home.jundie.top:81/top98.json", "name": "👨‍🎨俊佬" },
