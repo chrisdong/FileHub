@@ -7,10 +7,7 @@ https://tinyurl.com/lx6yin
 https://tinyurl.com/lxfl78  
 
 加速网址  
-https://raw.niuma666bet.buzz/chrisdong/FileHub/main/root/importURLs/tvbox/tvboxURLs.txt  
-https://raw.niuma666bet.buzz/chrisdong/FileHub/main/root/importURLs/tvbox/tvboxIPTV.txt  
-https://raw.niuma666bet.buzz/chrisdong/FileHub/main/root/importURLs/lxmusic/sixyin-music-source.js  
-https://raw.niuma666bet.buzz/chrisdong/FileHub/main/root/importURLs/lxmusic/freelisten-music-source.js  
+https://github.moeyy.xyz/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvboxURLs.txt 
 
 原网址（短网址对应的）  
 https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvboxURLs.txt  
