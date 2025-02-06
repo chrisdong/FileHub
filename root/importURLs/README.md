@@ -19,7 +19,8 @@ https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic
 https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/freelisten-music-source.js    
 
 作者 Huibq  
-https://github.com/Huibq/keep-alive  https://render.lxmusic.us.kg/  
+https://github.com/Huibq/keep-alive    
+https://render.lxmusic.us.kg/  
 Huibq洛雪音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js  
 
 作者 hwxlikemi  
