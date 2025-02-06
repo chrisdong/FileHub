@@ -38,4 +38,4 @@ https://raw.github.com/chrisdong/FileHub/main/root/importURLs/lxmusic/sixyin-mus
 https://github.com/chrisdong/FileHub/raw/main/root/importURLs/lxmusic/sixyin-music-source.js
 
 Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json  
-
+电视直播源 http://great.v6.army:9027/Sub?type=txt  
