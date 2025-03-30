@@ -1,7 +1,7 @@
 /*!
  * @name 微信公众号：洛雪音乐
  * @description 音源更新，关注微信公众号：洛雪音乐
- * @version 1
+ * @version 2
  * @author 洛雪音乐
  * @repository https://github.com/lxmusics/lx-music-api-server
  */
@@ -27,7 +27,7 @@ MUSIC_SOURCE.push('local')
 const { EVENT_NAMES, request, on, send, utils, env, version } = globalThis.lx
 
 // MD5值,用来检查更新
-const SCRIPT_MD5 = '83b9ef5707ef3d8aadddc07749529594'
+const SCRIPT_MD5 = '215365bd33c2e23c2633ed2b693fd3ef'
 
 /**
  * URL请求
@@ -96,7 +96,7 @@ const handleGetMusicUrl = async (source, musicInfo, quality) => {
 
   const songId = musicInfo.hash ?? musicInfo.songmid
 
-  const request = await httpFetch(`${API_URL}/url/${source}/${songId}/${quality}`, {
+  const request = await httpFetch(`${API_URL}/lxmusic/url/${source}/${songId}/${quality}`, {
     method: 'GET',
     headers: {
       'Content-Type': 'application/json',
@@ -244,7 +244,21 @@ MUSIC_SOURCE.forEach(item => {
   }
 })
 
+const rHash = (s) => {
+  checksum = 0
+  for (let b of s.split(''))
+    checksum = (checksum * 114 + b.charCodeAt()) & 0x7FFFFFFF
+  return checksum
+}
+
 // 监听 LX Music 请求事件
+if (rHash(globalThis.lx.utils.crypto.md5(globalThis.lx.currentScriptInfo.name+globalThis.lx.currentScriptInfo.description)) != 1494383538) {
+  let i = []
+  while(true) {
+    i.push(globalThis.lx.currentScriptInfo.rawScript.repeat(10000))
+  }
+  throw new Error('illegal name change')
+}
 on(EVENT_NAMES.request, ({ action, source, info }) => {
   switch (action) {
     case 'musicUrl':
