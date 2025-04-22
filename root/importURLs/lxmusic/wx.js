@@ -1,17 +1,17 @@
 /*!
  * @name 微信公众号：洛雪音乐
  * @description 音源更新，关注微信公众号：洛雪音乐
- * @version 2
+ * @version 3
  * @author 洛雪音乐
  * @repository https://github.com/lxmusics/lx-music-api-server
  */
 
 // 是否开启开发模式
-const DEV_ENABLE = false
+const DEV_ENABLE = true
 // 是否开启更新提醒
 const UPDATE_ENABLE = true
 // 服务端地址
-const API_URL = "https://88.lxmusic.xn--fiqs8s"
+const API_URL = "http://88.lxmusic.xn--fiqs8s"
 // 服务端配置的请求key
 const API_KEY = `lxmusic`
 // 音质配置(key为音源名称,不要乱填.如果你账号为VIP可以填写到hires)
@@ -27,7 +27,7 @@ MUSIC_SOURCE.push('local')
 const { EVENT_NAMES, request, on, send, utils, env, version } = globalThis.lx
 
 // MD5值,用来检查更新
-const SCRIPT_MD5 = '215365bd33c2e23c2633ed2b693fd3ef'
+const SCRIPT_MD5 = '47064d7e036e40d92392a57bd755e888'
 
 /**
  * URL请求
@@ -96,7 +96,7 @@ const handleGetMusicUrl = async (source, musicInfo, quality) => {
 
   const songId = musicInfo.hash ?? musicInfo.songmid
 
-  const request = await httpFetch(`${API_URL}/lxmusic/url/${source}/${songId}/${quality}`, {
+  const request = await httpFetch(`${API_URL}/lxmusicv3/url/${source}/${songId}/${quality}`, {
     method: 'GET',
     headers: {
       'Content-Type': 'application/json',
