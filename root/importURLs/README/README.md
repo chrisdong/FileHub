@@ -22,15 +22,15 @@ FM影视 https://github.com/FongMi/Release/tree/fongmi/apk/release
 
 -----------------------------------------------
 
-## lx-music音源导入
-MeoProject  https://api.v2.sukimon.me:19742/script?key=LXMusic_dmsowplaeq
-Huibq洛雪音源  https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js
-hwxlikemi音源 https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/hwxlikemi.js
-野花音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/flower.js
-野草音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/grass.js
-freelisten音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/fl.js
-iKun音源 https://lxmusic.ikunshare.com/script 
-微信公众号源 https://88.lxmusic.xn--fiqs8s/script?key=lxmusic
+## lx-music音源导入  
+野花音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/flower.js  
+野草音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/grass.js  
+微信公众号源 https://88.lxmusic.xn--fiqs8s/script?key=lxmusic  
+MeoProject  https://api.v2.sukimon.me:19742/script?key=LXMusic_dmsowplaeq  
+Huibq洛雪音源  https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js  
+hwxlikemi音源 https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/hwxlikemi.js  
+freelisten音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/fl.js  
+iKun音源 https://lxmusic.ikunshare.com/script     
 
 ## MusicFree音源导入
 Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json
