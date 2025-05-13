@@ -40,9 +40,9 @@ https://github.com/hhhackor/AppRhymeApi/blob/main/custom_api_2.0.evc
 
 ## AppRhyme下载  
 Win https://github.com/canxin121/app_rhyme/actions/runs/13545498971/artifacts/2656252524  
-Mac https://github.com/canxin121/app_rhyme/actions/runs/13545498971/artifacts/2656221530
-安卓 https://github.com/canxin121/app_rhyme/actions/runs/13545498971/artifacts/2656256567
-iOS https://github.com/canxin121/app_rhyme/actions/runs/13545498971/artifacts/2656211944
+Mac https://github.com/canxin121/app_rhyme/actions/runs/13545498971/artifacts/2656221530  
+安卓 https://github.com/canxin121/app_rhyme/actions/runs/13545498971/artifacts/2656256567  
+iOS https://github.com/canxin121/app_rhyme/actions/runs/13545498971/artifacts/2656211944  
 
 -----------------
 ## 在线音乐  
