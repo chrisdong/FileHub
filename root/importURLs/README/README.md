@@ -11,8 +11,8 @@ TXT订阅地址:   http://great.v6.army:9027/Sub?type=txt
 M3u订阅地址:  http://great.v6.army:9027/Sub?type=m3u  
 
 ## 软件开发者  
-OK影视 https://github.com/FongMi/Release/tree/okjack/apk/release 
-FM影视 https://github.com/FongMi/Release/tree/fongmi/apk/release
+OK影视 https://github.com/FongMi/Release/tree/okjack/apk/release   
+FM影视 https://github.com/FongMi/Release/tree/fongmi/apk/release  
 
 ## 提供接口的作者  
 王二小 https://www.王二小放牛娃.top/  
