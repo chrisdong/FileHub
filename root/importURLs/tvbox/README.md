@@ -47,7 +47,6 @@ https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-arm64_
 tvbox点播源    
 https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvboxURLs.txt   
 https://fastly.jsdelivr.net/gh/chrisdong/FileHub/root/importURLs/tvbox/tvboxURLs.txt  
-
 https://fo9j.short.gy/tvbox88  
 
 电脑版box接口    
