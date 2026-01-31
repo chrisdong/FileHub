@@ -1,18 +1,18 @@
-#影视TV fongmi原版  
+# 影视TV fongmi原版  
 
-##手机64位、竖屏  
+## 手机64位、竖屏  
 
 https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk  
 
 https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/mobile-arm64_v8a.apk  
 
-##电视32位、横屏  
+## 电视32位、横屏  
 
 https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk  
 
 https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/leanback-armeabi_v7a.apk  
 
-##闺蜜机64位、横屏  
+## 闺蜜机64位、横屏  
 
 https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-arm64_v8a.apk  
 
@@ -20,21 +20,21 @@ https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/leanback-arm64_v8a.apk
 
 
 
-#影视TV OK版  
+# 影视TV OK版  
 
-##手机64位、竖屏  
+## 手机64位、竖屏  
 
 https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-arm64_v8a.apk  
 
 https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/mobile-arm64_v8a.apk  
 
-##电视32位、横屏  
+## 电视32位、横屏  
 
 https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-armeabi_v7a.apk  
 
 https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-armeabi_v7a.apk  
 
-##闺蜜机64位、横屏  
+## 闺蜜机64位、横屏  
 
 https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-arm64_v8a.apk  
 
