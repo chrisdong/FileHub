@@ -1,10 +1,8 @@
 # 影视TV  
-## tvbox点播源    
+## 安卓tvbox点播源（多源合集）     
 https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvboxURLs.txt   
 https://fastly.jsdelivr.net/gh/chrisdong/FileHub/root/importURLs/tvbox/tvboxURLs.txt  
 https://fo9j.short.gy/tvbox88  
-## 电脑版box接口    
-https://catbox.n13.club/jk/jsm.json    
 ## 手机64位竖屏_fongmi原版  
 https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk  
 https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/mobile-arm64_v8a.apk  
@@ -23,6 +21,18 @@ https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-armeab
 ## 闺蜜机64位横屏_OK版    
 https://ghfast.top/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-arm64_v8a.apk  
 https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-arm64_v8a.apk  
+## 电脑版box接口      
+https://catbox.n13.club/jk/jsm.json      
+王二小放牛娃：  
+http://wexfnw:wexfnw@cat.xn--4kq62z5rby2qupq9ub.top/index.js.md5  
+http://wexfnw:wexfnw@cat.999888987.xyz/index.js.md5  
+http://wexfnw:wexfnw@cat.999888123.xyz/index.js.md5  
+魔力云播 MiraPlay专用接口：  
+https://9280.kstore.vip/cat/index.js.md5  
+雪乃猫源(猫爪，猫影视，PeekPili)：  
+https://9764.kstore.space/xuenai/catvod/index.js.md5  
+沐辰(猫爪，猫影视，PeekPili)：  
+https://ghfast.top/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5  
 
 -----------------------------------------------
 
@@ -35,16 +45,13 @@ https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root
 https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/野花_v1.0.0.js  
 
 ##  lx-music音源导入（收集其他作者）  
+统一音乐源 https://ghfast.top/https://raw.githubusercontent.com/7878gyc/gdstudio-lx-source/main/洛雪音乐自定义音源-基于GD音乐台-v1.0.0.js  
 野花音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/flower.js  
 野草音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/grass.js  
-统一音乐源 https://ghfast.top/https://raw.githubusercontent.com/7878gyc/gdstudio-lx-source/main/洛雪音乐自定义音源-基于GD音乐台-v1.0.0.js    
-微信公众号源 https://88.lxmusic.xn--fiqs8s/script?key=lxmusic  
-MeoProject  https://api.v2.sukimon.me:19742/script?key=LXMusic_dmsowplaeq  
+freelisten音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/fl.js   
 Huibq洛雪音源  https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js  
 hwxlikemi音源 https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/hwxlikemi.js  
-freelisten音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/fl.js  
-iKun音源 https://lxmusic.ikunshare.com/script     
-
+  
 ## MusicFree音源导入  
 Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json
 
