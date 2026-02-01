@@ -27,11 +27,13 @@ https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-arm64_
 -----------------------------------------------
 
 ## lx-music音源导入（My Own Repo）  
+https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/念心音源_v.1.0.0.js
 https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/freelisten_v1.1.2.js
 https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/独家音源_v4.0.js
-https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/闻音音源_v1.js
+https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/长青SVIP音源_v1.1.1.js
 https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/野草_v1.0.0.js
-https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/野花_v1.0.0.js
+https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/野花_v1.0.0.js  
+
 ##  lx-music音源导入（收集其他作者）  
 野花音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/flower.js  
 野草音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/grass.js  
