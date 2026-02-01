@@ -27,14 +27,15 @@ https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-arm64_
 -----------------------------------------------
 
 ## lx-music音源导入（My Own Repo）  
-https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/freelisten\_v1.1.2.js
-https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/独家音源\_v4.0.js
-https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/闻音音源\_v1.js
-https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/野草\_v1.0.0.js
-https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/野花\_v1.0.0.js
+https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/freelisten_v1.1.2.js
+https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/独家音源_v4.0.js
+https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/闻音音源_v1.js
+https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/野草_v1.0.0.js
+https://ghfast.top/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/野花_v1.0.0.js
 ##  lx-music音源导入（收集其他作者）  
 野花音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/flower.js  
 野草音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/grass.js  
+https://ghfast.top/https://raw.githubusercontent.com/7878gyc/gdstudio-lx-source/main/洛雪音乐自定义音源-基于GD音乐台-v1.0.0.js    
 微信公众号源 https://88.lxmusic.xn--fiqs8s/script?key=lxmusic  
 MeoProject  https://api.v2.sukimon.me:19742/script?key=LXMusic_dmsowplaeq  
 Huibq洛雪音源  https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js  
