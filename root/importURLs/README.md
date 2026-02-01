@@ -80,9 +80,14 @@ iKun音源 https://lxmusic.ikunshare.com/script
 
 ## MusicFree音源导入  
 Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json
-## AppRhyme 音源导入2.0版  
-https://fastly.jsdelivr.net/gh/hhhackor/AppRhymeApi/custom_api_2.0.evc
-https://github.com/hhhackor/AppRhymeApi/blob/main/custom_api_2.0.evc
+
+## AppRhyme 音源导入  
+v1版:  
+https://ghfast.top/https://github.com/hhhackor/AppRhymeApi/raw/main/custom_api.evc  
+https://cdn.jsdelivr.net/gh/hhhackor/AppRhymeApi@main/custom_api.evc  
+v2版:  
+https://ghfast.top/https://github.com/hhhackor/AppRhymeApi/raw/main/custom_api_2.0.evc  
+https://cdn.jsdelivr.net/gh/hhhackor/AppRhymeApi@main/custom_api_2.0.evc  
 
 ## AppRhyme下载  
 Win https://github.com/canxin121/app_rhyme/actions/runs/13545498971/artifacts/2656252524  
