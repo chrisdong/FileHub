@@ -44,7 +44,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/野草_v1.0.0.js
 https://fh.198887.xyz/root/importURLs/lxmusic/野花_v1.0.0.js   
 
 ##  lx-music音源导入（收集其他作者）  
-统一音乐源 https://gh-proxy.org/https://raw.githubusercontent.com/7878gyc/gdstudio-lx-source/main/洛雪音乐自定义音源-基于GD音乐台-v1.0.0.js  
+统一音源 https://fastly.jsdelivr.net/gh/7878gyc/gdstudio-lx-source/洛雪音乐自定义音源-基于GD音乐台-v1.0.0.js   
 野花音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/flower.js  
 野草音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/grass.js  
 野草音源  https://tt.tenmeng.com/moonue/js/yecao202412.js  
