@@ -1,7 +1,6 @@
 # 影视TV  
 ## 安卓tvbox点播源（多源合集）     
-https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvboxURLs.txt   
-https://fastly.jsdelivr.net/gh/chrisdong/FileHub/root/importURLs/tvbox/tvboxURLs.txt  
+https://fh.198887.xyz/root/importURLs/tvbox/tvboxURLs.txt    
 https://fo9j.short.gy/tvbox88  
 ## 手机64位竖屏_fongmi原版  
 https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk  
@@ -37,19 +36,12 @@ https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/mai
 -----------------------------------------------
 
 ## lx-music音源导入（My Own Repo）  
-https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/念心音源_v.1.0.0.js  
-https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/freelisten_v1.1.2.js  
-https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/独家音源_v4.0.js  
-https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/长青SVIP音源_v1.1.1.js  
-https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/野草_v1.0.0.js  
-https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/lxmusic/野花_v1.0.0.js  
-
-https://fastly.jsdelivr.net/gh/chrisdong/FileHub/root/importURLs/lxmusic/念心音源_v.1.0.0.js  
-https://fastly.jsdelivr.net/gh/chrisdong/FileHub/root/importURLs/lxmusic/freelisten_v1.1.2.js  
-https://fastly.jsdelivr.net/gh/chrisdong/FileHub/root/importURLs/lxmusic/独家音源_v4.0.js  
-https://fastly.jsdelivr.net/gh/chrisdong/FileHub/root/importURLs/lxmusic/长青SVIP音源_v1.1.1.js  
-https://fastly.jsdelivr.net/gh/chrisdong/FileHub/root/importURLs/lxmusic/野草_v1.0.0.js  
-https://fastly.jsdelivr.net/gh/chrisdong/FileHub/root/importURLs/lxmusic/野花_v1.0.0.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/念心音源_v.1.0.0.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/freelisten_v1.1.2.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/独家音源_v4.0.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/长青SVIP音源_v1.1.1.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/野草_v1.0.0.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/野花_v1.0.0.js   
 
 ##  lx-music音源导入（收集其他作者）  
 统一音乐源 https://gh-proxy.org/https://raw.githubusercontent.com/7878gyc/gdstudio-lx-source/main/洛雪音乐自定义音源-基于GD音乐台-v1.0.0.js  
