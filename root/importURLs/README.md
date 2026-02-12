@@ -41,13 +41,20 @@ https://fh.198887.xyz/root/importURLs/lxmusic/独家音源_v4.0.js
 https://fh.198887.xyz/root/importURLs/lxmusic/长青SVIP音源_v1.1.1.js   
 
 ##  lx-music音源导入（收集其他作者）  
-统一音源 https://fastly.jsdelivr.net/gh/7878gyc/gdstudio-lx-source/洛雪音乐自定义音源-基于GD音乐台-v1.0.0.js   
-聚合API接口 (CF)v3  https://fastly.jsdelivr.net/gh/pdone/lx-music-source/juhe/latest.js   
-Huibq洛雪音源  https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js  
-野花音源  https://fastly.jsdelivr.net/gh/pdone/lx-music-source/flower/latest.js   
-野草音源  https://fastly.jsdelivr.net/gh/pdone/lx-music-source/grass/latest.js   
-野草音源  https://tt.tenmeng.com/moonue/js/yecao202412.js  
-freelisten音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/fl.js   
+统一音源   
+https://fastly.jsdelivr.net/gh/7878gyc/gdstudio-lx-source/洛雪音乐自定义音源-基于GD音乐台-v1.0.0.js   
+聚合API接口 (CF)v3    
+https://fastly.jsdelivr.net/gh/pdone/lx-music-source/juhe/latest.js   
+Huibq洛雪音源    
+https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js  
+野花音源    
+https://fastly.jsdelivr.net/gh/pdone/lx-music-source/flower/latest.js   
+野草音源    
+https://fastly.jsdelivr.net/gh/pdone/lx-music-source/grass/latest.js   
+野草音源    
+https://tt.tenmeng.com/moonue/js/yecao202412.js    
+freelisten音源    
+https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/fl.js     
 
   
 ## MusicFree音源导入  
