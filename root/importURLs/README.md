@@ -51,7 +51,6 @@ Huibq洛雪音源  https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js
 野草音源  https://fastly.jsdelivr.net/gh/pdone/lx-music-source/grass/latest.js   
 野草音源  https://tt.tenmeng.com/moonue/js/yecao202412.js  
 freelisten音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/fl.js   
-hwxlikemi音源 https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/hwxlikemi.js  
 
   
 ## MusicFree音源导入  
