@@ -51,6 +51,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/野花_v1.0.0.js
 freelisten音源  https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/fl.js   
 Huibq洛雪音源  https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js  
 hwxlikemi音源 https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/hwxlikemi.js  
+聚合API接口 (CF)v3  https://fastly.jsdelivr.net/gh/pdone/lx-music-source/juhe/latest.js   
   
 ## MusicFree音源导入  
 Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json
