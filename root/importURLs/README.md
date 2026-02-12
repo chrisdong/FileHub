@@ -37,11 +37,8 @@ https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/mai
 
 ## lx-music音源导入（My Own Repo）  
 https://fh.198887.xyz/root/importURLs/lxmusic/念心音源_v.1.0.0.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/freelisten_v1.1.2.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/独家音源_v4.0.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/长青SVIP音源_v1.1.1.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/野草_v1.0.0.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/野花_v1.0.0.js   
+https://fh.198887.xyz/root/importURLs/lxmusic/长青SVIP音源_v1.1.1.js   
 
 ##  lx-music音源导入（收集其他作者）  
 统一音源 https://fastly.jsdelivr.net/gh/7878gyc/gdstudio-lx-source/洛雪音乐自定义音源-基于GD音乐台-v1.0.0.js   
