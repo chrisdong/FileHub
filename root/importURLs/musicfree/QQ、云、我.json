@@ -1,0 +1,6 @@
+{ 
+   "plugins": [
+   {"url": "https://music.li00il.cn/list/kw-index.js"},
+   {"url": "https://music.li00il.cn/list/qq-index.js"},
+   {"url": "https://music.li00il.cn/list/wy-index.js"}
+   ]}
