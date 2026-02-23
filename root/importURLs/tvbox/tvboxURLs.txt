@@ -37,6 +37,7 @@
 { "url": "http://ok521.top/ok", "name": "👌🏼OK外部备用1" },
 { "url": "https://10352.kstore.vip/tv", "name": "👌OK内部备用2" },
 { "url": "https://10352.kstore.vip/ok", "name": "👌🏼OK外部备用2" },
+{ "url": "http://rihou.cc:88/demoabc.json", "name": "VOX" },
 { "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json", "name": "🍏PG备用1" },
 { "url": "https://tvbox.catvod.com/jsm.json", "name": "🍏PG备用2" },
 { "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json", "name": "💓真心备用1" },
