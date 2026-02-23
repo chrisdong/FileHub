@@ -60,6 +60,8 @@ https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js
 
   
 ## MusicFree音源导入  
+MusicFree Tools进入后找音源  
+https://music.nairocy.com/  
 Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json
 
 ## AppRhyme 音源导入  
