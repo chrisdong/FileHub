@@ -64,8 +64,8 @@ MusicFree Tools进入后找音源
 https://music.nairocy.com/  
 Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json
 
-##QingMusic音源导入
-https://13413.kstore.vip/QingMusic/music.json
+## QingMusic音源导入  
+https://13413.kstore.vip/QingMusic/music.json  
 
 ## AppRhyme 音源导入  
 v1版:  
