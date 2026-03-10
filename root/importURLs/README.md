@@ -81,3 +81,7 @@ https://cdn.jsdelivr.net/gh/hhhackor/AppRhymeApi@main/custom_api_2.0.evc
 Webview电视    
 https://github.com/hxh19950701/WebViewTvLive/releases  
 https://xget.xi-xu.me/gh/hxh19950701/WebViewTvLive/releases  
+
+## moontv
+https://fastly.jsdelivr.net/gh/666zmy/MoonTV/config.json  
+https://fastly.jsdelivr.net/gh/samqin123/MoonTV/config.json
