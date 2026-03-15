@@ -15,7 +15,7 @@
 { "url": "http://mitvbox.xyz/小米/DEMO.json", "name": "🍚小米" },
 { "url": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config", "name": "➿️嗷呜" },
 { "url": "https://tvbox.catvod.com/catvod.json", "name": "🐱catvod" },
-{ "url": "https://tvbox.catvod.com/xs/api.json", "name": "🏄‍♂️潇洒" },
+{ "url": "https://9877.kstore.space/AnotherD/api.json", "name": "🏄‍♂️潇洒" },
 { "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json", "name": "🍆茄子库" },
 { "url": "https://api.hgyx.vip/hgyx.json", "name": "🐵HG" },
 { "url": "http://hb.小虎斑.site:25252/仅供测试", "name": "🐯小虎斑" },
@@ -45,7 +45,7 @@
 { "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json", "name": "💓真心备用1" },
 { "url": "https://tvbox.catvod.com/FongMi.json", "name": "💓真心备用2" },
 { "url": "https://tvbox.catvod.com/aw/config.json", "name": "➿️嗷呜备用" },
-{ "url": "https://9877.kstore.space/AnotherD/api.json", "name": "🏄‍♂️潇洒" },
+{ "url": "https://tvbox.catvod.com/xs/api.json", "name": "🏄‍♂️潇洒备用" },
 { "url": "https://13826.kstore.space/DEMO.json", "name": "🍚小米备用1" },
 { "url": "http://miqk.cc/小米/DEMO.json", "name": "🍚小米备用2" },
 { "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json", "name": "🍚小米备用3" }
