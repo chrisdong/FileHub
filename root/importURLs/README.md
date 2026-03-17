@@ -42,6 +42,8 @@ https://fh.198887.xyz/root/importURLs/lxmusic/长青SVIP音源_v1.1.1.js
 https://fh.198887.xyz/root/importURLs/lxmusic/闻音音源_v1.js     
 
 ##  lx-music音源导入（收集其他作者）  
+星海音源  
+https://zrcdy.dpdns.org/lx/xinghai-music-source.js​  
 野花音源    
 https://fastly.jsdelivr.net/gh/pdone/lx-music-source/flower/latest.js   
 野草音源    
