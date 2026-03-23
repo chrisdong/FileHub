@@ -82,7 +82,7 @@ https://source.shiqianjiang.cn/api/script/lx?key=CERU_KEY-F4A5F0A7-F612-4676-A8F
 https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/全豆要-聚合音源%20v4.0.js  
 https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/洛雪音乐源%201.0.0%20v2-fix.js  
 https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/收集の聚合接口(LX版)%20v1.0.0-beta.js  
-https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/全豆要-聚合音源%20v4.0.js  
+https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/fish音源%20v1.0.1.js  
 https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/全豆要-聚合音源%20v4.0.js  
 
 ## MusicFree音源导入
