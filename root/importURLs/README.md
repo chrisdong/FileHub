@@ -78,8 +78,8 @@ Huibq源
 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js  
 聆澜音源v2  
 https://source.shiqianjiang.cn/api/script/lx?key=CERU_KEY-F4A5F0A7-F612-4676-A8F2-4A13DD0FA4E5  
-全豆要v4  
-https://github.com/TZB679/USEFUL-LX-MUSIC-SOURCES/raw/refs/heads/main/%E7%8E%B0%E5%9C%A8%E7%9B%B4%E6%8E%A5%E7%94%A8%E8%BF%99%E4%B8%AA%E3%80%8E%E7%9B%B4%E6%8E%A5%E5%8F%AF%E7%94%A8%E7%9A%84%E9%9F%B3%E6%BA%90%E3%80%8F/%E5%85%A8%E8%B1%86%E8%A6%81-%E8%81%9A%E5%90%88%E9%9F%B3%E6%BA%90%20v4.0.js  
+全豆要v4    
+https://github.com/TZB679/USEFUL-LX-MUSIC-SOURCES/raw/refs/heads/main/现在直接用这个『直接可用的音源』/全豆要-聚合音源%20v4.0.js  
 
 ## MusicFree音源导入
 
