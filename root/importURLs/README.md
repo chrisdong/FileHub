@@ -80,7 +80,7 @@ https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js
 https://source.shiqianjiang.cn/api/script/lx?key=CERU_KEY-F4A5F0A7-F612-4676-A8F2-4A13DD0FA4E5  
 全豆要v4    
 https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/全豆要-聚合音源%20v4.0.js  
-https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/全豆要-聚合音源%20v4.0.js  
+https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/洛雪音乐源%201.0.0%20v2-fix.js  
 https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/全豆要-聚合音源%20v4.0.js  
 https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/全豆要-聚合音源%20v4.0.js  
 https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/全豆要-聚合音源%20v4.0.js  
