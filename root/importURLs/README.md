@@ -59,7 +59,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/聚合API接口CF_v3.js
 https://fh.198887.xyz/root/importURLs/lxmusic/洛雪音乐源_v1.0.0v2-fix.js    
 https://fh.198887.xyz/root/importURLs/lxmusic/闻音音源_v1.js       
 https://fh.198887.xyz/root/importURLs/lxmusic/落雪_v1.0.3.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/聆澜音源赞助版_v6.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/聆澜音源赞助版_v7.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/统一音乐源基于GD音乐台_v1.0.0.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/溯音音源_v1.js    
 https://fh.198887.xyz/root/importURLs/lxmusic/收集の聚合接口_v1.0.0-beta.js  
