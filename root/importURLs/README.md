@@ -74,8 +74,9 @@ https://fh.198887.xyz/root/importURLs/lxmusic/玉宁熙_v1.1.7.js
 https://fh.198887.xyz/root/importURLs/lxmusic/非常刀_v4.js   
 https://fh.198887.xyz/root/importURLs/lxmusic/独家音源_v4.0.js    
 
-## lx-music音源导入（收集其他作者）
+## lx-music音源导入（收集其他作者）  
 
+https://gitee.com/Myn_1/Mao_Yuna/raw/MYN_update/lx-music/lx-玉宁熙.js
 星海音源  
 https://zrcdy.dpdns.org/lx/xinghai-music-source.js  
 野花音源    
