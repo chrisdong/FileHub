@@ -9,7 +9,7 @@
  * 公益音源,切勿短时间批量下载
  */
 
-const YuNingXi = ''; // 音乐解析KEY
+const YuNingXi = '549e0959f534b4f1cc9d78e0bd93ef4085e648fdd07b1e8291aa98e96dfe0b5f'; // 音乐解析KEY
 //去http://api-v2.yuafeng.cn注册 免费!免费!免费!
 //不填写也可以使用,但是QQ音乐可能音质对不上
 
