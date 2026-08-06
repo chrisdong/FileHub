@@ -79,9 +79,13 @@ https://fh.198887.xyz/root/importURLs/lxmusic/独家音源_v4.0.js
 
 ## lx-music音源导入（收集其他作者）  
 
-https://gitee.com/Myn_1/Mao_Yuna/raw/MYN_update/lx-music/lx-玉宁熙.js  
-星海音源  
+https://gitee.com/Myn_1/Mao_Yuna/raw/MYN_update/lx-music/lx-玉宁熙.js 
+
+星海音源@cdyUuu    
+https://github.com/cdyUuu/lx-music-xinghai-source  
+https://zrcdy.dpdns.org/lx/vers.php   
 https://zrcdy.dpdns.org/lx/xinghai-music-source.js  
+
 野花音源    
 https://fastly.jsdelivr.net/gh/pdone/lx-music-source/flower/latest.js   
 野草音源    
