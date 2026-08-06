@@ -92,8 +92,8 @@ freelisten音源
 https://fastly.jsdelivr.net/gh/hwxlikemi/lxs/fl.js  
 统一音源    
 https://fastly.jsdelivr.net/gh/7878gyc/gdstudio-lx-source/洛雪音乐自定义音源-基于GD音乐台-v1.0.0.js   
-聚合API接口 (CF)v3    
-https://fastly.jsdelivr.net/gh/pdone/lx-music-source/juhe/latest.js   
+聚合API接口 (CF)v3 by lerd      
+https://api.music.lerd.dpdns.org/script.js     
 Huibq源       
 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js  
 聆澜音源v5  
