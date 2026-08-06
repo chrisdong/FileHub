@@ -74,7 +74,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/野草_v1.0.0.js
 https://fh.198887.xyz/root/importURLs/lxmusic/野花_v1.0.0.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/freelisten_v1.1.2.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/玉宁熙_v1.2.2.js   
-https://fh.198887.xyz/root/importURLs/lxmusic/非常刀_v4.js   
+https://fh.198887.xyz/root/importURLs/lxmusic/非常刀_v5.js   
 https://fh.198887.xyz/root/importURLs/lxmusic/独家音源_v4.0.js    
 https://fh.198887.xyz/root/importURLs/lxmusic/HeiMusic聚合源_v1.1.5.js     
 
