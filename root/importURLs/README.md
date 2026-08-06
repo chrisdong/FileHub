@@ -79,7 +79,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/独家音源_v4.0.js
 
 ## lx-music音源导入（收集其他作者）    
 
-@玉宁熙 https://gitee.com/Myn_1/Mao_Yuna  
+@玉宁熙 https://gitee.com/Myn_1/Mao_Yuna   
 https://gitee.com/Myn_1/Mao_Yuna/raw/MYN_update/lx-music/lx-玉宁熙.js 
 
 星海音源@cdyUuu https://zrcdy.dpdns.org/      
