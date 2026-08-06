@@ -51,9 +51,10 @@ https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/mai
 
 -----------------------------------------------
 
-## lx-music音源收集@houbowen https://houbowen.lanzouw.com/b00hqtgx9c
+## lx-music音源收集@houbowen   
+https://houbowen.lanzouw.com/b00hqtgx9c
 
-## lx-music音源导入（My Own Repo）19个
+## lx-music音源导入（My Own Repo）19个  
 
 https://fh.198887.xyz/root/importURLs/lxmusic/念心音源_v.1.0.1.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/长青SVIP音源_v1.2.0.js     
