@@ -81,7 +81,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/独家音源_v4.0.js
 
 https://gitee.com/Myn_1/Mao_Yuna/raw/MYN_update/lx-music/lx-玉宁熙.js 
 
-星海音源@cdyUuu    
+星海音源@cdyUuu https://zrcdy.dpdns.org/      
 https://github.com/cdyUuu/lx-music-xinghai-source  
 https://zrcdy.dpdns.org/lx/vers.php   
 https://zrcdy.dpdns.org/lx/xinghai-music-source.js  
@@ -113,7 +113,10 @@ https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接�
 
 MusicFree Tools进入后找音源  
 https://music.nairocy.com/  
-Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json
+Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json  
+https://api.music.lerd.dpdns.org/mf.json  
+全球电台聚合插件  https://zrcdy.dpdns.org/musicfree/radio-browser.info.js   
+星海音乐源（wy网易云专用）  http://zrcdy.dpdns.org/musicfree/xinghai-music-source-wy.js   
 
 ## QingMusic音源导入
 
