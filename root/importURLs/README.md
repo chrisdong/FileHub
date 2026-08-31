@@ -118,7 +118,9 @@ https://music.nairocy.com/
 Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json  
 https://api.music.lerd.dpdns.org/mf.json  
 全球电台聚合插件  https://zrcdy.dpdns.org/musicfree/radio-browser.info.js   
-星海音乐源（wy网易云专用）  http://zrcdy.dpdns.org/musicfree/xinghai-music-source-wy.js   
+星海音乐源（wy网易云专用）    
+https://zrcdy.dpdns.org/musicfree/scan.php  
+http://zrcdy.dpdns.org/musicfree/xinghai-music-source-wy.js   
 
 ## QingMusic音源导入
 
