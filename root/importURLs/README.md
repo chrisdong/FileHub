@@ -85,8 +85,8 @@ https://gitee.com/Myn_1/Mao_Yuna/raw/MYN_update/lx-music/lx-玉宁熙.js
 
 星海音源@cdyUuu https://zrcdy.dpdns.org/      
 https://github.com/cdyUuu/lx-music-xinghai-source  
-https://zrcdy.dpdns.org/lx/vers.php   
-https://zrcdy.dpdns.org/lx/xinghai-music-source.js  
+https://zrcdy.dpdns.org/lx/vers.php    
+https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.13.js  
 
 野花音源    
 https://fastly.jsdelivr.net/gh/pdone/lx-music-source/flower/latest.js   
