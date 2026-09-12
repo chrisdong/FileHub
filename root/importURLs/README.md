@@ -5,35 +5,35 @@
 https://fh.198887.xyz/root/importURLs/tvbox/tvboxURLs.txt  
 https://fo9j.short.gy/tvbox88
 
-## 手机64位竖屏\_fongmi原版
+## 手机64位竖屏_fongmi原版
 
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64\_v8a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/mobile-arm64\_v8a.apk
+https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk  
+https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/mobile-arm64_v8a.apk
 
-## 电视32位横屏\_fongmi原版
+## 电视32位横屏_fongmi原版
 
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi\_v7a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/leanback-armeabi\_v7a.apk
+https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk  
+https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/leanback-armeabi_v7a.apk
 
-## 闺蜜机64位横屏\_fongmi原版
+## 闺蜜机64位横屏_fongmi原版
 
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-arm64\_v8a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/leanback-arm64\_v8a.apk
+https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-arm64_v8a.apk  
+https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/leanback-arm64_v8a.apk
 
-## 手机64位竖屏\_OK版
+## 手机64位竖屏_OK版
 
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-arm64\_v8a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/mobile-arm64\_v8a.apk
+https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-arm64_v8a.apk  
+https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/mobile-arm64_v8a.apk
 
-## 电视32位横屏\_OK版
+## 电视32位横屏_OK版
 
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-armeabi\_v7a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-armeabi\_v7a.apk
+https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-armeabi_v7a.apk  
+https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-armeabi_v7a.apk
 
-## 闺蜜机64位横屏\_OK版
+## 闺蜜机64位横屏_OK版
 
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-arm64\_v8a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-arm64\_v8a.apk
+https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-arm64_v8a.apk  
+https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-arm64_v8a.apk
 
 ## 电脑版box接口
 
@@ -49,7 +49,7 @@ https://9764.kstore.space/xuenai/catvod/index.js.md5
 沐辰(猫爪，猫影视，PeekPili)：  
 https://gh-proxy.org/https://raw.githubusercontent.com/4TVBox/Cat/refs/heads/main/index.js.md5
 
-\---
+---
 
 ## lx-music音源收集@houbowen
 
@@ -81,8 +81,8 @@ https://fh.198887.xyz/root/importURLs/lxmusic/HeiMusic聚合源_v1.1.5.js
 
 ## lx-music音源导入（收集其他作者）
 
-@玉宁熙 https://gitee.com/Myn\_1/Mao\_Yuna  
-https://gitee.com/Myn\_1/Mao\_Yuna/raw/MYN\_update/lx-music/lx-玉宁熙.js
+@玉宁熙 https://gitee.com/Myn_1/Mao_Yuna  
+https://gitee.com/Myn_1/Mao_Yuna/raw/MYN_update/lx-music/lx-玉宁熙.js
 
 星海音源@cdyUuu https://zrcdy.dpdns.org/  
 https://github.com/cdyUuu/lx-music-xinghai-source  
@@ -102,9 +102,9 @@ https://fastly.jsdelivr.net/gh/7878gyc/gdstudio-lx-source/洛雪音乐自定义�
 聚合API接口 (CF)v3 by lerd  
 https://api.music.lerd.dpdns.org/script.js  
 Huibq源  
-https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render\_api.js  
+https://fastly.jsdelivr.net/gh/Huibq/keep-alive/render_api.js  
 聆澜音源v5  
-https://source.shiqianjiang.cn/api/script/lx?key=CERU\_KEY-F4A5F0A7-F612-4676-A8F2-4A13DD0FA4E5  
+https://source.shiqianjiang.cn/api/script/lx?key=CERU_KEY-F4A5F0A7-F612-4676-A8F2-4A13DD0FA4E5  
 全豆要v4  
 https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/全豆要-聚合音源%20v4.0.js  
 https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接用这个『直接可用的音源』/洛雪音乐源%201.0.0%20v2-fix.js  
@@ -116,7 +116,7 @@ https://fastly.jsdelivr.net/gh/TZB679/USEFUL-LX-MUSIC-SOURCES@main/现在直接�
 
 MusicFree Tools进入后找音源  
 https://music.nairocy.com/  
-Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music\_Free/myPlugins.json  
+Huibq MusicFree音源 https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json  
 https://api.music.lerd.dpdns.org/mf.json  
 全球电台聚合插件  https://zrcdy.dpdns.org/musicfree/radio-browser.info.js  
 星海音乐源  
@@ -129,13 +129,13 @@ https://13413.kstore.vip/QingMusic/music.json
 ## AppRhyme 音源导入
 
 v1版:  
-https://gh-proxy.org/https://github.com/hhhackor/AppRhymeApi/raw/main/custom\_api.evc  
-https://cdn.jsdelivr.net/gh/hhhackor/AppRhymeApi@main/custom\_api.evc  
+https://gh-proxy.org/https://github.com/hhhackor/AppRhymeApi/raw/main/custom_api.evc  
+https://cdn.jsdelivr.net/gh/hhhackor/AppRhymeApi@main/custom_api.evc  
 v2版:  
-https://gh-proxy.org/https://github.com/hhhackor/AppRhymeApi/raw/main/custom\_api\_2.0.evc  
-https://cdn.jsdelivr.net/gh/hhhackor/AppRhymeApi@main/custom\_api\_2.0.evc
+https://gh-proxy.org/https://github.com/hhhackor/AppRhymeApi/raw/main/custom_api_2.0.evc  
+https://cdn.jsdelivr.net/gh/hhhackor/AppRhymeApi@main/custom_api_2.0.evc
 
-\---
+---
 
 ## 安卓电视apk
 
