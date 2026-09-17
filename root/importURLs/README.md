@@ -77,7 +77,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/freelisten_v1.1.2.js
 https://fh.198887.xyz/root/importURLs/lxmusic/玉宁熙_v1.2.5.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/非常刀_v5.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/独家音源_v6.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/墨澜聚合音源_v2.3.3.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/墨澜聚合音源_v2.3.4.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/星澜聚合音源_v4.0.0.js  
 
 ## lx-music音源导入（收集其他作者）
