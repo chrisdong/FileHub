@@ -10,8 +10,8 @@ const LOG_ENABLE = true;
 const UPDATE_ENABLE = true;
 const API_URL = "https://source.shiqianjiang.cn/api";
 const API_KEY = "CERU_KEY-F4A5F0A7-F612-4676-A8F2-4A13DD0FA4E5";
-const SCRIPT_MD5 = "1071e0320b9a220ed465fb30372c7539";
-const MUSIC_QUALITY = {"git":["128k","320k","flac"],"kg":["128k","320k","flac","flac24bit","hires","atmos","master"],"kw":["128k","320k","flac","flac24bit","hires"],"mg":["128k","320k","flac","flac24bit","hires"],"tx":["128k","320k","flac","flac24bit","hires","atmos","atmos_plus","master"],"wy":["128k","320k","flac","flac24bit","hires","atmos","master"]};
+const SCRIPT_MD5 = "b3d61a4fd140ffbcca4d7425742a6d2f";
+const MUSIC_QUALITY = {"kg":["128k","320k","flac","flac24bit","hires","atmos","master"],"kw":["128k","320k","flac","flac24bit","hires"],"mg":["128k","320k","flac","flac24bit","hires"],"tx":["128k","320k","flac","flac24bit","hires","atmos","atmos_plus","master"],"wy":["128k","320k","flac","flac24bit","hires","atmos","master"]};
 const MUSIC_SOURCE = Object.keys(MUSIC_QUALITY);
 const { EVENT_NAMES, request, on, send, env, version } = globalThis.lx;
 
