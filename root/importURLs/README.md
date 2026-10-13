@@ -82,6 +82,11 @@ https://fh.198887.xyz/root/importURLs/lxmusic/星澜聚合音源_v4.0.0.js
 
 ## lx-music音源导入（收集其他作者）  
 
+星海音源@cdyUuu https://zrcdy.dpdns.org/  
+https://github.com/cdyUuu/lx-music-xinghai-source  
+https://zrcdy.dpdns.org/lx/vers.php  
+https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.15.js  
+
 星澜聚合音源  
 https://github.com/lick563/Xinglan-aggregate-sound-sources    
 
@@ -90,11 +95,6 @@ https://source.shiqianjiang.cn/api/script/lx?key=CERU_KEY-F4A5F0A7-F612-4676-A8F
 
 @玉宁熙 https://gitee.com/Myn_1/Mao_Yuna  
 https://gitee.com/Myn_1/Mao_Yuna/raw/MYN_update/lx-music/lx-玉宁熙.js
-
-星海音源@cdyUuu https://zrcdy.dpdns.org/  
-https://github.com/cdyUuu/lx-music-xinghai-source  
-https://zrcdy.dpdns.org/lx/vers.php  
-https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.13.js
 
 墨澜音乐源  
 https://github.com/baiji6/molanyinyueyuan  
