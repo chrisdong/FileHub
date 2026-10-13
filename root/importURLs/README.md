@@ -80,13 +80,13 @@ https://fh.198887.xyz/root/importURLs/lxmusic/独家音源_v6.js
 https://fh.198887.xyz/root/importURLs/lxmusic/墨澜聚合音源_v2.3.4.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/星澜聚合音源_v4.0.0.js  
 
-## lx-music音源导入（收集其他作者）
+## lx-music音源导入（收集其他作者）  
 
-星澜聚合音源
-https://gh-proxy.com/https://github.com/lick563/Xinglan-aggregate-sound-sources/releases/download/4.0.0/stellarwave-v4.0.0.js
+星澜聚合音源  
+https://gh-proxy.com/https://github.com/lick563/Xinglan-aggregate-sound-sources/releases/download/4.0.0/stellarwave-v4.0.0.js  
 
-聆澜音源赞助版_v8.9.1
-https://source.shiqianjiang.cn/api/script/lx?key=CERU_KEY-F4A5F0A7-F612-4676-A8F2-4A13DD0FA4E5
+聆澜音源赞助版_v8.9.1  
+https://source.shiqianjiang.cn/api/script/lx?key=CERU_KEY-F4A5F0A7-F612-4676-A8F2-4A13DD0FA4E5  
 
 @玉宁熙 https://gitee.com/Myn_1/Mao_Yuna  
 https://gitee.com/Myn_1/Mao_Yuna/raw/MYN_update/lx-music/lx-玉宁熙.js
