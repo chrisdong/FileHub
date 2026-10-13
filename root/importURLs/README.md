@@ -96,6 +96,9 @@ https://github.com/cdyUuu/lx-music-xinghai-source
 https://zrcdy.dpdns.org/lx/vers.php  
 https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.13.js
 
+墨澜音乐源  
+https://github.com/baiji6/molanyinyueyuan  
+
 野花音源  
 https://fastly.jsdelivr.net/gh/pdone/lx-music-source/flower/latest.js  
 野草音源  
