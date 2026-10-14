@@ -90,6 +90,7 @@ https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.15.js
 
 星澜聚合音源  
 https://github.com/lick563/Xinglan-aggregate-sound-sources    
+https://gh-proxy.com/https://github.com/lick563/Xinglan-aggregate-sound-sources/releases/download/4.0.0/stellarwave-v4.0.0.js  
 
 聆澜音源赞助版_v8.9.1  
 https://source.shiqianjiang.cn/api/script/lx?key=CERU_KEY-F4A5F0A7-F612-4676-A8F2-4A13DD0FA4E5  
