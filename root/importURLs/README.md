@@ -88,8 +88,7 @@ https://github.com/cdyUuu/lx-music-xinghai-source
 https://zrcdy.dpdns.org/lx/vers.php  
 https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.15.js  
 
-星澜聚合音源  
-https://github.com/lick563/Xinglan-aggregate-sound-sources    
+星澜聚合音源     
 https://gh-proxy.com/https://github.com/lick563/Xinglan-aggregate-sound-sources  
 
 聆澜音源赞助版  
