@@ -6,9 +6,7 @@ https://fh.198887.xyz/root/importURLs/tvbox/tvboxURLs.txt
 https://fo9j.short.gy/tvbox88
 
 ## 手机64位竖屏_fongmi原版
-
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/mobile-arm64_v8a.apk
+https://gh-proxy.com/https://github.com/FongMi/Release/  
 
 ## 电视32位横屏_fongmi原版
 
