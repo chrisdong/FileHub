@@ -9,6 +9,7 @@ https://fo9j.short.gy/tvbox88
 https://gh-proxy.com/https://github.com/FongMi/Release/    
 leanback-armeabi-v7a 电视版  
 mobile-arm64-v8a 手机版  
+leanback-arm64-v8a 闺蜜机版  
 
 ## 电脑版box接口
 
