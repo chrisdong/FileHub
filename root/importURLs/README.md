@@ -98,10 +98,10 @@ https://source.shiqianjiang.cn/api/script/lx?key=CERU_KEY-F4A5F0A7-F612-4676-A8F
 https://gitee.com/Myn_1/Mao_Yuna/raw/MYN_update/lx-music/lx-玉宁熙.js
 
 墨澜音乐源  
-https://github.com/baiji6/molanyinyueyuan  
+https://gh-proxy.com/https://github.com/baiji6/molanyinyueyuan  
 
 何意味音源  
-https://github.com/Macrohard0001/HYWmusic_source  
+https://gh-proxy.com/https://github.com/Macrohard0001/HYWmusic_source  
 
 野花音源  
 https://fastly.jsdelivr.net/gh/pdone/lx-music-source/flower/latest.js  
