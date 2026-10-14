@@ -5,33 +5,12 @@
 https://fh.198887.xyz/root/importURLs/tvbox/tvboxURLs.txt  
 https://fo9j.short.gy/tvbox88
 
-## 手机64位竖屏_fongmi原版
+## 影视TV
 https://gh-proxy.com/https://github.com/FongMi/Release/  
 
-## 电视32位横屏_fongmi原版
 
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/leanback-armeabi_v7a.apk
 
-## 闺蜜机64位横屏_fongmi原版
 
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-arm64_v8a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@fongmi/apk/leanback-arm64_v8a.apk
-
-## 手机64位竖屏_OK版
-
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/mobile-arm64_v8a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/mobile-arm64_v8a.apk
-
-## 电视32位横屏_OK版
-
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-armeabi_v7a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-armeabi_v7a.apk
-
-## 闺蜜机64位横屏_OK版
-
-https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/okjack/apk/release/leanback-arm64_v8a.apk  
-https://fastly.jsdelivr.net/gh/FongMi/Release@okjack/apk/release/leanback-arm64_v8a.apk
 
 ## 电脑版box接口
 
