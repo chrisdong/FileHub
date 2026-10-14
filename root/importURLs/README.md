@@ -5,12 +5,10 @@
 https://fh.198887.xyz/root/importURLs/tvbox/tvboxURLs.txt  
 https://fo9j.short.gy/tvbox88
 
-## 影视TV
-https://gh-proxy.com/https://github.com/FongMi/Release/  
-
-
-
-
+## 影视TV  
+https://gh-proxy.com/https://github.com/FongMi/Release/    
+leanback-armeabi-v7a 电视版  
+mobile-arm64-v8a 手机版  
 
 ## 电脑版box接口
 
