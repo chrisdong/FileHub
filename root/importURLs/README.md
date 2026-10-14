@@ -10,6 +10,7 @@ https://gh-proxy.com/https://github.com/FongMi/Release/
 leanback-armeabi-v7a 电视版  
 mobile-arm64-v8a 手机版  
 leanback-arm64-v8a 闺蜜机版  
+mobile-armeabi-v7a 古董手机版
 
 ## 电脑版box接口
 
