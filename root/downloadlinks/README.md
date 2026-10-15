@@ -18,6 +18,7 @@ https://gh-proxy.com/https://github.com/amcfy-music/amcfy-music
 https://gh-proxy.com/https://github.com/algerkong/AlgerMusicPlayer
 https://gh-proxy.com/https://github.com/lyswhut/lx-music-mobile
 https://gh-proxy.com/https://github.com/lyswhut/lx-music-desktop
+https://gh-proxy.com/https://github.com/liuyincs/musiver
 https://gh-proxy.com/https://github.com/gitbobobo/StreamMusic
 https://gh-proxy.com/https://github.com/maotoumao/MusicFree
 https://gh-proxy.com/https://github.com/maotoumao/MusicFreeDesktop
