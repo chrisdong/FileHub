@@ -23,7 +23,8 @@ https://gh-proxy.com/https://github.com/gitbobobo/StreamMusic
 https://gh-proxy.com/https://github.com/maotoumao/MusicFree  
 https://gh-proxy.com/https://github.com/maotoumao/MusicFreeDesktop  
 https://gh-proxy.com/https://github.com/any-listen/any-listen  
-https://github.com/songloft-org/songloft-player
+https://gh-proxy.com/https://github.com/songloft-org/songloft-player  
+https://gh-proxy.com/https://github.com/kejichangqing/QingMusic  
   
 ### 重装系统必装  
 https://gh-proxy.com/https://github.com/laurent22/joplin  
@@ -43,7 +44,7 @@ https://gh-proxy.com/https://github.com/zbezj/HEU_KMS_Activator
 https://gh-proxy.com/https://github.com/studyzy/imewlconverter  
 https://gh-proxy.com/https://github.com/BFWXKJGS/AlistClient  
 https://gh-proxy.com/https://github.com/xlist-io/xlist  
-https://gh-proxy.com/https://github.com/gkd-kit/gkd  
+https://gh-proxy.com/https://github.com/gkd-kit/gkd   
 
 ### 影视  
 https://gh-proxy.com/https://github.com/FongMi/Release  
@@ -68,12 +69,12 @@ https://gh-proxy.com/https://github.com/RikkaApps/Shizuku
 https://gh-proxy.com/https://github.com/apk-editor/APK-Explorer-Editor  
 https://gh-proxy.com/https://github.com/w1lli4m666-droid/TVFileBox  
 https://gh-proxy.com/https://github.com/bbplayer-app/BBPlayer  
-https://github.com/home-assistant/android  
+https://gh-proxy.com/https://github.com/home-assistant/android  
 
 ## 安卓TV
-https://gh-proxy.com/https://github.com/hxzhang2000/NASMusicTV  
-https://gh-proxy.com/https://github.com/bmizhou/lx-music-tv
-https://github.com/boluofan/music-tv
+https://gh-proxy.com/https://github.com/hxzhang2000/NASMusicTV    
+https://gh-proxy.com/https://github.com/bmizhou/lx-music-tv  
+https://github.com/boluofan/music-tv  
 
 ### 其他  
 https://gh-proxy.com/https://github.com/AmintaCCCP/GithubStarsManager  
