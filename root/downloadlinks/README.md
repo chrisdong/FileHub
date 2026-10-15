@@ -47,13 +47,14 @@ https://gh-proxy.com/https://github.com/xlist-io/xlist
 https://gh-proxy.com/https://github.com/FongMi/Release  
 
 ### App Store  
-https://github.com/ImranR98/Obtainium
+https://gh-proxy.com/https://github.com/ImranR98/Obtainium  
 https://gh-proxy.com/https://github.com/komi-store/komi-store  
 https://gh-proxy.com/https://github.com/samyak2403/RepoStore  
 https://gh-proxy.com/https://github.com/NikhilKain/vyxel-apps  
 https://gh-proxy.com/https://github.com/timschneeb/ShizuStore  
 
 ### 科学    
+https://gh-proxy.com/https://github.com/BeyondDimension/SteamTools  
 https://gh-proxy.com/https://github.com/MetaCubeX/ClashMetaForAndroid  
 https://gh-proxy.com/https://github.com/docmirror/dev-sidecar  
 https://gh-proxy.com/https://github.com/clash-verge-rev/clash-verge-rev  
