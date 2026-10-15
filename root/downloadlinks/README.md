@@ -23,6 +23,7 @@ https://gh-proxy.com/https://github.com/gitbobobo/StreamMusic
 https://gh-proxy.com/https://github.com/maotoumao/MusicFree  
 https://gh-proxy.com/https://github.com/maotoumao/MusicFreeDesktop  
 https://gh-proxy.com/https://github.com/any-listen/any-listen  
+https://github.com/songloft-org/songloft-player
   
 ### 重装系统必装  
 https://gh-proxy.com/https://github.com/laurent22/joplin  
