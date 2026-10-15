@@ -25,6 +25,10 @@ https://gh-proxy.com/https://github.com/Gaoyifei1011/GetStoreApp
 https://gh-proxy.com/https://github.com/samyak2403/RepoStore
 https://gh-proxy.com/https://github.com/Edwardhehe/batchPrintZWCAD
 https://gh-proxy.com/https://github.com/SUC-DriverOld/MSST-WebUI
+https://gh-proxy.com/https://github.com/Jeric-X/syncclipboard-mobile
+https://gh-proxy.com/https://github.com/fcitx5-android/fcitx5-android
+https://gh-proxy.com/https://github.com/zzzlllmmm1/PeekPiliRelease
+https://gh-proxy.com/https://github.com/keepassxreboot/keepassxc
 https://gh-proxy.com/
 https://gh-proxy.com/
 https://gh-proxy.com/
@@ -32,6 +36,7 @@ https://gh-proxy.com/
 https://gh-proxy.com/
 https://gh-proxy.com/
 https://gh-proxy.com/
+https://gh-proxy.com/https://github.com/apk-editor/APK-Explorer-Editor
 https://gh-proxy.com/https://github.com/hxzhang2000/NASMusicTV
 https://gh-proxy.com/https://github.com/w1lli4m666-droid/TVFileBox
 https://gh-proxy.com/https://github.com/bbplayer-app/BBPlayer
