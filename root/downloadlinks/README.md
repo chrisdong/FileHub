@@ -39,11 +39,11 @@ https://gh-proxy.com/https://github.com/MetaCubeX/ClashMetaForAndroid
 https://gh-proxy.com/https://github.com/docmirror/dev-sidecar
 https://gh-proxy.com/https://github.com/any-listen/any-listen
 https://gh-proxy.com/https://github.com/clash-verge-rev/clash-verge-rev
-https://gh-proxy.com/
-https://gh-proxy.com/
-https://gh-proxy.com/
-https://gh-proxy.com/
-https://gh-proxy.com/
+https://gh-proxy.com/https://github.com/M2Team/NanaZip
+https://gh-proxy.com/https://github.com/zbezj/HEU_KMS_Activator
+https://gh-proxy.com/https://github.com/gitbobobo/StreamMusic
+https://gh-proxy.com/https://github.com/maotoumao/MusicFree
+https://gh-proxy.com/https://github.com/maotoumao/MusicFreeDesktop
 https://gh-proxy.com/
 https://gh-proxy.com/
 https://gh-proxy.com/
