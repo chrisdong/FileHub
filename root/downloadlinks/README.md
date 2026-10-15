@@ -53,8 +53,8 @@ https://gh-proxy.com/
 https://gh-proxy.com/
 https://gh-proxy.com/
 https://gh-proxy.com/
-https://gh-proxy.com/
-https://gh-proxy.com/
+https://gh-proxy.com/https://github.com/BFWXKJGS/AlistClient
+https://gh-proxy.com/https://github.com/xlist-io/xlist
 https://gh-proxy.com/https://github.com/algerkong/AlgerMusicPlayer
 https://gh-proxy.com/https://github.com/521xueweihan/GitHub520
 https://gh-proxy.com/https://github.com/oldj/SwitchHosts
