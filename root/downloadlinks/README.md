@@ -56,7 +56,7 @@ https://gh-proxy.com/https://github.com/samyak2403/RepoStore
 https://gh-proxy.com/https://github.com/NikhilKain/vyxel-apps  
 https://gh-proxy.com/https://github.com/qq5855144/App-Search  
 https://gh-proxy.com/https://github.com/timschneeb/ShizuStore  
-https://github.com/f-droid/fdroidclient
+https://gh-proxy.com/https://github.com/f-droid/fdroidclient  
 
 ### 科学    
 https://gh-proxy.com/https://github.com/BeyondDimension/SteamTools  
