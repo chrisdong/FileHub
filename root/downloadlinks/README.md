@@ -47,6 +47,7 @@ https://gh-proxy.com/https://github.com/xlist-io/xlist
 https://gh-proxy.com/https://github.com/FongMi/Release  
 
 ### App Store  
+https://github.com/ImranR98/Obtainium
 https://gh-proxy.com/https://github.com/komi-store/komi-store  
 https://gh-proxy.com/https://github.com/samyak2403/RepoStore  
 https://gh-proxy.com/https://github.com/NikhilKain/vyxel-apps  
