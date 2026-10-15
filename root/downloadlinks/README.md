@@ -13,7 +13,7 @@ https://archive.synology.com/download
 https://www.synology.cn/zh-cn/support/download/DS1621+  
 
 ## GitHub软件  
-###音乐  
+### 音乐  
 https://gh-proxy.com/https://github.com/amcfy-music/amcfy-music  
 https://gh-proxy.com/https://github.com/algerkong/AlgerMusicPlayer  
 https://gh-proxy.com/https://github.com/lyswhut/lx-music-mobile  
@@ -24,7 +24,7 @@ https://gh-proxy.com/https://github.com/maotoumao/MusicFree
 https://gh-proxy.com/https://github.com/maotoumao/MusicFreeDesktop  
 https://gh-proxy.com/https://github.com/any-listen/any-listen  
   
-###重装系统必装  
+### 重装系统必装  
 https://gh-proxy.com/https://github.com/laurent22/joplin  
 https://gh-proxy.com/https://github.com/laurent22/joplin-android  
 https://gh-proxy.com/https://github.com/OdysseusYuan/Mocreak    
@@ -43,7 +43,7 @@ https://gh-proxy.com/https://github.com/studyzy/imewlconverter
 https://gh-proxy.com/https://github.com/BFWXKJGS/AlistClient  
 https://gh-proxy.com/https://github.com/xlist-io/xlist  
 
-###影视  
+### 影视  
 https://gh-proxy.com/https://github.com/FongMi/Release  
 
 ### App Store  
@@ -52,14 +52,14 @@ https://gh-proxy.com/https://github.com/samyak2403/RepoStore
 https://gh-proxy.com/https://github.com/NikhilKain/vyxel-apps  
 https://gh-proxy.com/https://github.com/timschneeb/ShizuStore  
 
-###科学    
+### 科学    
 https://gh-proxy.com/https://github.com/MetaCubeX/ClashMetaForAndroid  
 https://gh-proxy.com/https://github.com/docmirror/dev-sidecar  
 https://gh-proxy.com/https://github.com/clash-verge-rev/clash-verge-rev  
 https://gh-proxy.com/https://github.com/521xueweihan/GitHub520  
 https://gh-proxy.com/https://github.com/oldj/SwitchHosts  
 
-##安卓手机  
+## 安卓手机  
 https://gh-proxy.com/https://github.com/RikkaApps/Shizuku  
 https://gh-proxy.com/https://github.com/apk-editor/APK-Explorer-Editor  
 https://gh-proxy.com/https://github.com/w1lli4m666-droid/TVFileBox  
