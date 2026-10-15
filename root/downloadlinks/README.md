@@ -83,4 +83,4 @@ https://gh-proxy.com/https://github.com/SUC-DriverOld/MSST-WebUI
 https://gh-proxy.com/https://github.com/zzzlllmmm1/PeekPiliRelease  
 https://gh-proxy.com/https://github.com/SpriteOvO/AirPodsDesktop  
 https://gh-proxy.com/https://github.com/ILLKX/Windows  
-https://gh-proxy.com/https://github.com/qingjian-team/qingjian  
+https://gh-proxy.com/https://github.com/qingjian-team/qingjian    
