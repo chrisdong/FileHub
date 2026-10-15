@@ -42,7 +42,7 @@ https://gh-proxy.com/https://github.com/zbezj/HEU_KMS_Activator
 https://gh-proxy.com/https://github.com/studyzy/imewlconverter  
 https://gh-proxy.com/https://github.com/BFWXKJGS/AlistClient  
 https://gh-proxy.com/https://github.com/xlist-io/xlist  
-https://github.com/gkd-kit/gkd  
+https://gh-proxy.com/https://github.com/gkd-kit/gkd  
 
 ### 影视  
 https://gh-proxy.com/https://github.com/FongMi/Release  
