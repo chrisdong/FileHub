@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.haoxiaoxidianshi.net/_nuxt/img/colored.711584b.png" group-title="主内",好消息综合台
+https://akamai-live.akamaized.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-logo="https://www.haoxiaoxidianshi.net/_nuxt/img/colored.711584b.png" group-title="主内",好消息综合台
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-logo="https://www.haoxiaoxidianshi.net/_nuxt/img/second.3f3f6e4.jpg" group-title="主内",好消息真理台
+https://akamai-live.akamaized.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-logo="https://www.haoxiaoxidianshi.net/_nuxt/img/second.3f3f6e4.jpg" group-title="主内",好消息真理台
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
