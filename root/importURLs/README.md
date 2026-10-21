@@ -57,6 +57,15 @@ https://fh.198887.xyz/root/importURLs/lxmusic/非常刀_v5.js
 https://fh.198887.xyz/root/importURLs/lxmusic/独家音源_v6.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/墨澜聚合音源_v2.3.4.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/星澜聚合音源_v4.0.0.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/西瓜聚合_1.40.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/
+https://fh.198887.xyz/root/importURLs/lxmusic/
+https://fh.198887.xyz/root/importURLs/lxmusic/
+https://fh.198887.xyz/root/importURLs/lxmusic/
+https://fh.198887.xyz/root/importURLs/lxmusic/
+https://fh.198887.xyz/root/importURLs/lxmusic/
+https://fh.198887.xyz/root/importURLs/lxmusic/
+https://fh.198887.xyz/root/importURLs/lxmusic/
 
 ## lx-music音源导入（收集其他作者）  
 
