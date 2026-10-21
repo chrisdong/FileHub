@@ -59,7 +59,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/墨澜聚合音源_v2.3.4.js
 https://fh.198887.xyz/root/importURLs/lxmusic/星澜聚合音源_v4.0.0.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/西瓜聚合_1.40.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/裤佬SVIP音源_v3.0.0.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/
+https://fh.198887.xyz/root/importURLs/lxmusic/星海音乐源_v2.3.15.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/
 https://fh.198887.xyz/root/importURLs/lxmusic/
 https://fh.198887.xyz/root/importURLs/lxmusic/
