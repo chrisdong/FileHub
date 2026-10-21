@@ -35,7 +35,7 @@ https://houbowen.lanzouw.com/b00hqtgx9c
 ## lx-music音源导入（My Own Repo）19个
 
 https://fh.198887.xyz/root/importURLs/lxmusic/K×H测试_v1.7.17.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/念心音源_v.1.0.2.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/念心音源_v1.0.2.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/长青SVIP音源_v1.3.0.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/聚合API接口CF_v3.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/洛雪音乐源_v1.0.0v2-fix.js  
