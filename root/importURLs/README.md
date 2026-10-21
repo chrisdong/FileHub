@@ -70,10 +70,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/Huibq_v1.2.0-4.js
 https://fh.198887.xyz/root/importURLs/lxmusic/HelloWorld_v260925.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/HeiMusic-fix_v2.2.1.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/gdstudio仅网易_v1.0.1.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/
-https://fh.198887.xyz/root/importURLs/lxmusic/
-https://fh.198887.xyz/root/importURLs/lxmusic/
-https://fh.198887.xyz/root/importURLs/lxmusic/
+https://fh.198887.xyz/root/importURLs/lxmusic/  
 
 ## lx-music音源导入（收集其他作者）  
 
