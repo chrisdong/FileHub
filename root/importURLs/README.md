@@ -63,7 +63,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/星海音乐源_v2.3.15.js
 https://fh.198887.xyz/root/importURLs/lxmusic/幻音音源_v3.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/屿溪-终章_v0.0.0.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/安妮独家音源_v5.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/
+https://fh.198887.xyz/root/importURLs/lxmusic/回避聚合_v0.0.1.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/
 https://fh.198887.xyz/root/importURLs/lxmusic/
 
