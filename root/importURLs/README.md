@@ -35,7 +35,7 @@ https://houbowen.lanzouw.com/b00hqtgx9c
 ## lx-music音源导入（My Own Repo）19个
 
 https://fh.198887.xyz/root/importURLs/lxmusic/K×H测试_v1.7.17.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/念心音源_v.1.0.1.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/念心音源_v.1.0.2.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/长青SVIP音源_v1.3.0.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/聚合API接口CF_v3.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/洛雪音乐源_v1.0.0v2-fix.js  
@@ -60,9 +60,9 @@ https://fh.198887.xyz/root/importURLs/lxmusic/星澜聚合音源_v4.0.0.js
 https://fh.198887.xyz/root/importURLs/lxmusic/西瓜聚合_1.40.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/裤佬SVIP音源_v3.0.0.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/星海音乐源_v2.3.15.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/
-https://fh.198887.xyz/root/importURLs/lxmusic/
-https://fh.198887.xyz/root/importURLs/lxmusic/
+https://fh.198887.xyz/root/importURLs/lxmusic/幻音音源_v3.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/屿溪-终章_v0.0.0.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/安妮独家音源_v5.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/
 https://fh.198887.xyz/root/importURLs/lxmusic/
 https://fh.198887.xyz/root/importURLs/lxmusic/
