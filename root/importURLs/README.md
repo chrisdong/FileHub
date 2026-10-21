@@ -47,7 +47,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/溯音音源_v1.js
 https://fh.198887.xyz/root/importURLs/lxmusic/收集の聚合接口_v1.0.0-beta.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/忆音音源_v1.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/Huibq_v1.2.0-4.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/fish_music_v1.9.0.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/fish-music_v1.9.0.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/稳定版音源_v1.0.3.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/野草_v1.0.0.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/野花_v1.0.0.js  
