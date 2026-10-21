@@ -65,8 +65,7 @@ https://fh.198887.xyz/root/importURLs/lxmusic/屿溪-终章_v0.0.0.js
 https://fh.198887.xyz/root/importURLs/lxmusic/安妮独家音源_v5.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/回避聚合_v0.0.1.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/全豆要_v4.1.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/HYWmusic公益版_v1.2.0.js  
-https://fh.198887.xyz/root/importURLs/lxmusic/Huibq_v1.2.0-4.js  
+https://fh.198887.xyz/root/importURLs/lxmusic/HYWmusic公益版_v1.2.0.js    
 https://fh.198887.xyz/root/importURLs/lxmusic/HelloWorld_v260925.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/HeiMusic-fix_v2.2.1.js  
 https://fh.198887.xyz/root/importURLs/lxmusic/gdstudio仅网易_v1.0.1.js  
