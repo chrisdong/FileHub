@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://akamai-live.akamaized.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://live-350k.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://akamai-live.akamaized.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://live-350k.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台audio
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech1-audio.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV_300x180.png" group-title="基督教",好消息综合台audio
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2_audio_only.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台audio
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech2-audio.m3u8
+#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/chrisdong/FileHub/main/root/importURLs/tvbox/tvlogo/GoodTV2_300x180.png" group-title="基督教",好消息真理台audio
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2_audio_only.m3u8
