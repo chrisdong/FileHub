@@ -31,6 +31,7 @@ https://gh-proxy.com/https://github.com/laurent22/joplin
 https://gh-proxy.com/https://github.com/laurent22/joplin-android  
 https://gh-proxy.com/https://github.com/OdysseusYuan/Mocreak    
 https://gh-proxy.com/https://github.com/Edwardhehe/batchPrintZWCAD  
+https://gh-proxy.com/https://github.com/tianma-if/edgeever  
 https://gh-proxy.com/https://github.com/rime/weasel  
 https://gh-proxy.com/https://github.com/amzxyz/rime-wanxiang  
 https://gh-proxy.com/https://github.com/agalwood/Motrix  
