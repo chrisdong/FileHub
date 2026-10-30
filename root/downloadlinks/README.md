@@ -79,7 +79,8 @@ https://gh-proxy.com/https://github.com/home-assistant/android
 ## 安卓TV
 https://gh-proxy.com/https://github.com/hxzhang2000/NASMusicTV    
 https://gh-proxy.com/https://github.com/bmizhou/lx-music-tv  
-https://github.com/boluofan/music-tv  
+https://gh-proxy.com/https://github.com/boluofan/music-tv  
+https://gh-proxy.com/https://github.com/vesaaa/vstv  
 
 ### 其他  
 https://gh-proxy.com/https://github.com/AmintaCCCP/GithubStarsManager  
