@@ -34,7 +34,7 @@ https://gh-proxy.com/https://github.com/Edwardhehe/batchPrintZWCAD
 https://gh-proxy.com/https://github.com/tianma-if/edgeever  
 https://gh-proxy.com/https://github.com/rime/weasel  
 https://gh-proxy.com/https://github.com/amzxyz/rime-wanxiang  
-https://gh-proxy.com/https://github.com/agalwood/Motrix  
+https://gh-proxy.com/https://github.com/AnInsomniacy/rayburst  
 https://gh-proxy.com/https://github.com/1003129155/jietuba  
 https://gh-proxy.com/https://github.com/Jeric-X/syncclipboard-mobile  
 https://gh-proxy.com/https://github.com/Jeric-X/SyncClipboard  
