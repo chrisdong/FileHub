@@ -15,6 +15,7 @@ https://www.synology.cn/zh-cn/support/download/DS1621+
 ## GitHub软件  
 ### 音乐  
 https://f.amcfy.com/d/android-64  
+https://apps.apple.com/app/id6758010612  
 https://gh-proxy.com/https://github.com/amcfy-music/amcfy-music  
 https://gh-proxy.com/https://github.com/algerkong/AlgerMusicPlayer  
 https://gh-proxy.com/https://github.com/lyswhut/lx-music-mobile  
