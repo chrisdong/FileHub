@@ -81,6 +81,7 @@ https://gh-proxy.com/https://github.com/hxzhang2000/NASMusicTV
 https://gh-proxy.com/https://github.com/bmizhou/lx-music-tv  
 https://gh-proxy.com/https://github.com/boluofan/music-tv  
 https://gh-proxy.com/https://github.com/vesaaa/vstv  
+https://f.amcfy.com/d/android-tv  
 
 ### 其他  
 https://gh-proxy.com/https://github.com/AmintaCCCP/GithubStarsManager  
